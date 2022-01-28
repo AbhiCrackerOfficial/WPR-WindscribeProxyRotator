@@ -5,6 +5,13 @@
     The author does not hold any responsibility for the bad use of this tool,
     remember this is only for educational purpose.
 
+## Screenshot:
+![pic1](https://imgur.com/a/IyCeHyh)
+
+![pic2](https://i.imgur.com/mhXxb5Q.png)
+
+<br /><br />
+
 ## Dependencies :
     1 - Figlet
 	2 - Lolcat

@@ -6,7 +6,7 @@
     remember this is only for educational purpose.
 
 ## Screenshot:
-![pic1](https://imgur.com/a/IyCeHyh)
+![pic1](https://i.imgur.com/IyCeHyh.png)
 
 ![pic2](https://i.imgur.com/mhXxb5Q.png)
 

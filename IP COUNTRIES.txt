@@ -1,0 +1,173 @@
+US Central            US-C                 Atlanta            Mountain
+US Central            US-C                 Atlanta            Piedmont
+US Central            US-C                  Dallas                Ammo
+US Central            US-C                  Dallas                 BBQ
+US Central            US-C                  Dallas               Ranch
+US Central            US-C                  Denver              Barley
+US Central            US-C                  Denver                Hops
+US Central            US-C             Kansas City              Glinda
+US East               US                    Boston                 MIT
+US East               US                   Buffalo                Bill
+US East               US                 Charlotte           Earnhardt
+US East               US                   Chicago                 Cub
+US East               US                   Chicago               The L
+US East               US                   Chicago             Wrigley
+US East               US                 Cleveland               Brown
+US East               US                   Detroit           Coney Dog
+US East               US                     Miami         Florida Man
+US East               US                     Miami                Snow
+US East               US                     Miami                Vice
+US East               US                New Jersey           Situation
+US East               US                  New York              Empire
+US East               US                  New York              Gotham
+US East               US                  New York       Grand Central
+US East               US                  New York            Insomnia
+US East               US                   Orlando         Tofu Driver
+US East               US              Philadelphia              Cheese
+US East               US              Philadelphia        Fresh Prince
+US East               US                South Bend             Hawkins
+US East               US             Washington DC           Precedent
+US West               US-W                    Bend        Oregon Trail
+US West               US-W               Las Vegas              Casino
+US West               US-W             Los Angeles                Cube
+US West               US-W             Los Angeles                Dogg
+US West               US-W             Los Angeles                Eazy
+US West               US-W             Los Angeles               Lamar
+US West               US-W             Los Angeles                 Pac
+US West               US-W                 Phoenix             Floatie
+US West               US-W           San Francisco          Sanitation
+US West               US-W                San Jose             Santana
+US West               US-W             Santa Clara              Inside
+US West               US-W                 Seattle              Cobain
+US West               US-W                 Seattle             Cornell
+US West               US-W                 Seattle             Hendrix
+WINDFLIX US           US-N                New York           Radiohall
+Canada East           CA                   Halifax              Crosby
+Canada East           CA                  Montreal       Bagel Poutine
+Canada East           CA                  Montreal             Expo 67
+Canada East           CA                   Toronto        Comfort Zone
+Canada East           CA                   Toronto               The 6
+Canada West           CA-W               Vancouver           Granville
+Canada West           CA-W               Vancouver             Stanley
+Canada West           CA-W               Vancouver          Vansterdam
+WINDFLIX CA           CA-N                 Toronto          Mansbridge
+Austria               AT                    Vienna           Boltzmann
+Austria               AT                    Vienna             Hofburg
+Belgium               BE                  Brussels          Guildhouse
+Bulgaria              BG                     Sofia              Nevski
+Croatia               HR                    Zagreb          Tkalciceva
+Cyprus                CY                   Nicosia         Blue Lagoon
+Czech Republic        CZ                    Prague              Vltava
+Czech Republic        CZ                    Prague            Staromak
+Denmark               DK                Copenhagen                LEGO
+Estonia               EE                   Tallinn           Lennujaam
+Finland               FI                  Helsinki               Sauna
+Finland               FI                  Helsinki                Tram
+France                FR                     Paris              Jardin
+France                FR                     Paris               Seine
+Germany               DE                 Frankfurt              Castle
+Germany               DE                 Frankfurt              Wiener
+Greece                GR                    Athens               Agora
+Greece                GR                    Athens               Odeon
+Greece                GR                    Athens           Parthenon
+Hungary               HU                  Budapest              Danube
+Iceland               IS                 Reykjavik          Fuzzy Pony
+Iceland               IS                 Reykjavik               Reyka
+Ireland               IE                    Dublin            Dullahan
+Ireland               IE                    Dublin            Guinness
+Israel                IL                    Ashdod            Yam Park
+Israel                IL                 Jerusalem                Zion
+Italy                 IT                     Milan               Duomo
+Italy                 IT                     Milan            Galleria
+Italy                 IT                      Rome           Colosseum
+Lithuania             LT                  Siauliai              Talksa
+Lithuania             LT                   Vilnius               Neris
+Luxembourg            LU                Luxembourg              Chemin
+Moldova               MD                  Chisinau          Dendrarium
+Netherlands           NL                 Amsterdam             Bicycle
+Netherlands           NL                 Amsterdam               Canal
+Netherlands           NL                 Amsterdam           Red Light
+Netherlands           NL                 Amsterdam               Tulip
+North Macedonia       MK                    Skopje              Vardar
+Norway                NO                      Oslo               Fjord
+Poland                PL                    Warsaw              Chopin
+Poland                PL                    Warsaw               Curie
+Poland                PL                    Warsaw             Vistula
+Portugal              PT                    Lisbon              Bairro
+Romania               RO                 Bucharest         No Vampires
+Slovakia              SK                Bratislava        Devin Castle
+Spain                 ES                 Barcelona              Batllo
+Spain                 ES                    Madrid               Prado
+Sweden                SE                 Stockholm          Djurgarden
+Sweden                SE                 Stockholm                Ikea
+Sweden                SE                 Stockholm            Syndrome
+Switzerland           CH                    Zurich             Alphorn
+Switzerland           CH                    Zurich            Altstadt
+Switzerland           CH                    Zurich           Lindenhof
+United Kingdom        GB                 Edinburgh       Keeper Willie
+United Kingdom        GB                    London            Biscuits
+United Kingdom        GB                    London            Crumpets
+United Kingdom        GB                    London             Custard
+United Kingdom        GB                Manchester              United
+WINDFLIX UK           GB-N                  London            The Tube
+Albania               AL                    Tirana                Besa
+Azerbaijan            AZ                 Baku City             Caspian
+Bosnia                BA                  Sarajevo               Burek
+Georgia               GE                   Tbilisi              Ghvino
+India                 IN                    Mumbai               Mahim
+Kenya                 KE                   Nairobi             Sigiria
+Russia                RU                    Moscow        Sleepy Lenin
+Russia                RU          Saint Petersburg           Hermitage
+Russia                RU          Saint Petersburg               Shnur
+Serbia                RS                  Belgrade               Rakia
+South Africa          ZA              Johannesburg            District
+Turkey                TR                     Bursa           Teleferik
+Turkey                TR                  Istanbul             Ataturk
+Turkey                TR                  Istanbul              Galata
+Ukraine               UA                      Kyiv             Chicken
+Australia             AU                  Adelaide                Oval
+Australia             AU                  Brisbane           Bad Koala
+Australia             AU                  Brisbane          Good Koala
+Australia             AU                  Canberra              Burley
+Australia             AU                 Melbourne        Port Phillip
+Australia             AU                 Melbourne               Yarra
+Australia             AU                     Perth            Herdsman
+Australia             AU                     Perth          Kings Park
+Australia             AU                    Sydney         Opera House
+Australia             AU                    Sydney            Squidney
+New Zealand           NZ                  Auckland             Hauraki
+New Zealand           NZ                  Auckland             Parnell
+Cambodia              KH                Phnom Penh        Botum Pagoda
+Hong Kong             HK                 Hong Kong              Phooey
+Hong Kong             HK                 Hong Kong            Victoria
+Indonesia             ID                   Jakarta             Menteng
+Indonesia             ID                   Jakarta            Old Town
+Japan                 JP                     Tokyo            Bosozoku
+Japan                 JP                     Tokyo               Drift
+Malaysia              MY              Kuala Lumpur             Perdana
+Philippines           PH                    Manila               Pasig
+Philippines           PH               San Antonio            Zambales
+Singapore             SG                 Singapore              Garden
+Singapore             SG                 Singapore          Marina Bay
+Singapore             SG                 Singapore                SMRT
+South Korea           KR                     Seoul           Bukhansan
+South Korea           KR                     Seoul             Hangang
+South Korea           KR                     Seoul               Metro
+Taiwan                TW                    Taipei              Datong
+Thailand              TH                   Bangkok            Hangover
+Thailand              TH                   Bangkok            Khao San
+United Arab Emirates  AE                     Dubai             Khalifa
+Vietnam               VN                     Hanoi           Red River
+WINDFLIX JP           JP-N                   Tokyo               Kaiju
+Argentina             AR              Buenos Aires               Tango
+Brazil                BR                 Sao Paulo            Mercadao
+Brazil                BR                 Sao Paulo          Pinacoteca
+Chile                 CL                  Santiago               Cueca
+Colombia              CO                    Bogota          Rololandia
+Colombia              CO                    Bogota        White Coffee
+Ecuador               EC                     Quito                 Cuy
+Mexico                MX               Guadalajara             Cabanas
+Mexico                MX               Mexico City             Cojones
+Panama                PA               Panama City              Papers
+Peru                  PE                      Lima               Amaru
+Fake Antarctica       AQ                     Troll             Station

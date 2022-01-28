@@ -8,13 +8,21 @@
 ## Screenshot:
 ![pic1](https://i.imgur.com/czttZsV.png)
 
+Main Screen
+
 ![pic2](https://i.imgur.com/Pc22r8V.png)
+
+Time Duration
 
 ![pic3](https://i.imgur.com/1Nm8LdK.png)
 
+IP Country
+
 ![pic4](https://i.imgur.com/0rJmmbk.png)
 
-<br /><br /><br /><br />
+Proxy Rotating
+
+<br />
 
 ## Dependencies :
     1 - Figlet

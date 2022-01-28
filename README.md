@@ -8,7 +8,13 @@
 ## Screenshot:
 ![pic1](https://i.imgur.com/czttZsV.png)
 
-<br />
+![pic2](https://i.imgur.com/Pc22r8V.png)
+
+![pic3](https://i.imgur.com/1Nm8LdK.png)
+
+![pic4](https://i.imgur.com/0rJmmbk.png)
+
+<br /><br /><br /><br />
 
 ## Dependencies :
     1 - Figlet

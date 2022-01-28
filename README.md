@@ -23,7 +23,7 @@
 	
 ## Download/Config/Usage:
     1 - Download the tool from github
-         git clone https://github.com/AbhiCrackerOfficial/WPR-WindscribeProxyRotator
+         git clone https://github.com/AbhiCrackerOfficial/WPR-WindscribeProxyRotator.git
 	 
     2 - Set script execution permission
          cd WPR-WindscribeProxyRotator

@@ -37,10 +37,11 @@ Proxy Rotating
     
 ## Requirements :  
     1 - Windscribe Free/Premium Account
-	2 - Attentive Brain 
-	3 - Linux OS
-## Install Windscribe For Debain/Ubuntu Users:
-    1. sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-key FDC247B7 && echo 'deb https://repo.windscribe.com/ubuntu bionic main' | sudo tee /etc/apt/sources.list.d/windscribe-repo.list && sudo apt-get update && sudo apt-get install windscribe-cli && windscribe login
+    2 - Attentive Brain 
+    3 - Linux OS
+    
+## Install Windscribe For Debain/Ubuntu Users (Copy Below And Run):
+    sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-key FDC247B7 && echo 'deb https://repo.windscribe.com/ubuntu bionic main' | sudo tee /etc/apt/sources.list.d/windscribe-repo.list && sudo apt-get update && sudo apt-get install windscribe-cli && windscribe login
     
 ## Download/Config/Usage:
     1 - Download the tool from github

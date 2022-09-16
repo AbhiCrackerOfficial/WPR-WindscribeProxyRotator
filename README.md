@@ -39,7 +39,9 @@ Proxy Rotating
     1 - Windscribe Free/Premium Account
 	2 - Attentive Brain 
 	3 - Linux OS
-	
+## Install Windscribe For Debain/Ubuntu Users:
+    1. sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-key FDC247B7 && echo 'deb https://repo.windscribe.com/ubuntu bionic main' | sudo tee /etc/apt/sources.list.d/windscribe-repo.list && sudo apt-get update && sudo apt-get install windscribe-cli && windscribe login
+    
 ## Download/Config/Usage:
     1 - Download the tool from github
          git clone https://github.com/AbhiCrackerOfficial/WPR-WindscribeProxyRotator.git
@@ -48,7 +50,9 @@ Proxy Rotating
          cd WPR-WindscribeProxyRotator
          chmod +x wpr.sh
 	 
-    3- Run Script :
+    3 - Install Windscribe By Above Method Given If your System is Debain/Ubuntu
+    
+    4 - Run Script :
        ./wpr.sh
          
 ## DONATE:

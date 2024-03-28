@@ -55,6 +55,3 @@ Proxy Rotating
     
     4 - Run Script :
        ./wpr.sh
-         
-## DONATE:
-    Theproabhi001@gmail.com (CoinBase)

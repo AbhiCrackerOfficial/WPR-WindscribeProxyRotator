@@ -1,34 +1,17 @@
-## WPR-WindscribeProxyRotator v0.1
-    Author: Abhi Cracker (SAB TEAM)
+<h1 align="center">WPR-WindscribeProxyRotator</h1>
+WPR (Windscribe Proxy Rotator) is a bash script that automates the rotation of Windscribe VPN proxies on Linux systems. It provides a convenient way to switch between proxies at regular intervals, enhancing privacy and bypassing geo-restrictions effectively.
+
 
 ## Legal Disclamer:
     The author does not hold any responsibility for the bad use of this tool,
     remember this is only for educational purpose.
 
-## Screenshot:
-![pic1](https://i.imgur.com/czttZsV.png)
+## Dependencies
 
-Main Screen
-
-![pic2](https://i.imgur.com/Pc22r8V.png)
-
-Time Duration
-
-![pic3](https://i.imgur.com/1Nm8LdK.png)
-
-IP Country
-
-![pic4](https://i.imgur.com/0rJmmbk.png)
-
-Proxy Rotating
-
-<br />
-
-## Dependencies :
-    1 - Figlet
-	2 - Lolcat
-	3 - Zenity
-	4 - Windscribe-CLI
+- `figlet`: Required for ASCII art text generation.
+- `lolcat`: Used for colorful text output.
+- `zenity`: Utilized for graphical user interface prompts.
+- `windscribe`: The Windscribe VPN CLI tool for Linux.
 
 ## NOTE:
     Install Windscribe-CLI from Official Website - https://windscribe.com/guides/linux
@@ -55,3 +38,28 @@ Proxy Rotating
     
     4 - Run Script :
        ./wpr.sh
+
+## Screenshot:
+![pic1](https://i.imgur.com/czttZsV.png)
+
+Main Screen
+
+![pic2](https://i.imgur.com/Pc22r8V.png)
+
+Time Duration
+
+![pic3](https://i.imgur.com/1Nm8LdK.png)
+
+IP Country
+
+![pic4](https://i.imgur.com/0rJmmbk.png)
+
+Proxy Rotating
+
+<br />
+
+
+## Acknowledgments
+
+- Thanks to the developers of Windscribe for providing a powerful VPN service and CLI tool.
+- Special thanks to the creators of `figlet`, `lolcat`, and `zenity` for their useful utilities.
